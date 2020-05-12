@@ -1,0 +1,2 @@
+# control-repo
+Learning Puppet
