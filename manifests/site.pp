@@ -4,4 +4,8 @@ node default {
     content => 'Aventine Solutions',
     owner   => 'root',
   }
+
+  file { '/root/README':
+    owner   => 'root',
+  }
 }
